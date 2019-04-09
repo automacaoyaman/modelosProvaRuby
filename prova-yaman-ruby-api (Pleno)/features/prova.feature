@@ -7,4 +7,4 @@ Esquema do Cenário: Dados do correio
     Quando armazenar os valores da API referente a rua, cidade, cep e estado
     Então devo comparar se o retorno dos valores da API estao em conformidade com a "<rua>", "<cidade>", "<cep>" e "<estado>"
     | url                                       | rua                  | cidade    | cep     | estado|
-    | http://api.postmon.com.br/v1/cep/06454000 | Alameda Rio Negro    | Barueri   | 06454000| SP    |
+    |                                           |                      |           |         |       |
